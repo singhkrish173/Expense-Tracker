@@ -1,0 +1,30 @@
+# Build outputs
+/target/
+/build/
+out/
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.*
+
+# Maven wrapper downloaded files (keep wrapper scripts only)
+.mvn/wrapper/*.jar
+
+# Java
+*.class
+
+# Temporary files
+*.tmp
+*.bak
